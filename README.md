@@ -19,7 +19,7 @@ Este projeto foi desenvolvido como atividade da disciplina de Análise e Desenvo
 ## Como executar
 
 1. Clone este repositório:
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Joyciane-Moraes/landingpage-joyci.git
 
 2. Abra o arquivo `index.html` em um navegador.
 
